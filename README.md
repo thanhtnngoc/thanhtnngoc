@@ -7,6 +7,6 @@
 | [AutoStart_RealFlights](https://github.com/thanhtnngoc/AutoStart_UAV_RealFlights) | [Image_Processing](https://github.com/thanhtnngoc/Image_Processing) |[Library_MAX7219](https://github.com/thanhtnngoc/Library_MAX7219) | |[PX4-Autopilot](https://github.com/thanhtnngoc/PX4-Autopilot)|
 | [AutoStart_Test](https://github.com/thanhtnngoc/AutoStart_Test) | [Quiz_English](https://github.com/thanhtnngoc/Quiz_English) |  |  ||
 | [Quad_ws](https://github.com/thanhtnngoc/Quad_Ws) |  |  |  ||
-| [UAV_Control](https://github.com/thanhtnngoc/UAV_Control) |  |  |  ||
+| [UAV_Control_Reference](https://github.com/thanhtnngoc/UAV_Control) |  |  |  ||
 | [Example-octorotor_coaxial.sdf](https://github.com/thanhtnngoc/Example-octorotor_coaxial.sdf) |  |  |  ||
 | [Webcam_detect_target](https://github.com/thanhtnngoc/Webcam_detect_target) |  |  |  ||
